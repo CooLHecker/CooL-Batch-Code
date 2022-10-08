@@ -30,3 +30,9 @@ Do you want your friend to not to open your instagram while he is using your pc?
 ![Website Crasher 08-10-2022 15_50_55](https://user-images.githubusercontent.com/114807496/194702801-ce17ca4d-8cfb-411b-8683-432e4f470a1f.png)
 
 want to open the site ?? just restart your pc.
+
+<h2>Scary Shutdown</h2>
+this file is perfect to prank your friend just copy this file into your friend's pc and edit it's icon and name and then you are ready to go when your friend opens it his pc will shutdown with a message "You are Hacked"
+
+![image](https://user-images.githubusercontent.com/114807496/194703256-bb6aa021-8fc7-4a3c-af50-cd0ff51fd538.png)
+
